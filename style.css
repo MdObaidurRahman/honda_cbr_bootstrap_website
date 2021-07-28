@@ -1,0 +1,18 @@
+.btn-danger {
+    background-color: #E76F51 !important;
+}
+.text-color{
+    color: black;
+}
+.color{
+    color: #E76F51 !important;
+}
+.gray{
+    filter: grayscale(100%);
+}
+.far{
+    color: #E76F51;
+}
+.fas{
+    color: #E76F51;
+}
